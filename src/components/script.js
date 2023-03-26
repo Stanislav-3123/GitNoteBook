@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>Hello from logic</h1>'
